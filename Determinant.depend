@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1528148160 source:c:\users\songokas\saved games\determinant\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
